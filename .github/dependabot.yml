@@ -3,4 +3,8 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
+<<<<<<< HEAD
       interval: "daily"
+=======
+      interval: "daily" # Lo ponemos diario para que trabaje rápido para tu práctica
+>>>>>>> f4c33f4e3869b3ed5c675cf8c0fbf75aa92bbeb0
